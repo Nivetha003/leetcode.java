@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nivetha003/leetcode.java/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Nivetha003/leetcode.java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nivetha003/leetcode.java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nivetha003/leetcode.java/tree/master/0342-power-of-four) |
@@ -41,7 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nivetha003/leetcode.java/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Nivetha003/leetcode.java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nivetha003/leetcode.java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nivetha003/leetcode.java/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Nivetha003/leetcode.java/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
