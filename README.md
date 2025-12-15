@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nivetha003/leetcode.java/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Nivetha003/leetcode.java/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Nivetha003/leetcode.java/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
