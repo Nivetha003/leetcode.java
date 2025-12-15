@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nivetha003/leetcode.java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nivetha003/leetcode.java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/Nivetha003/leetcode.java/tree/master/2413-smallest-even-multiple) |
+| [2652-sum-multiples](https://github.com/Nivetha003/leetcode.java/tree/master/2652-sum-multiples) |
 ## Greedy
 |  |
 | ------- |
