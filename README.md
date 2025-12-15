@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nivetha003/leetcode.java/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Nivetha003/leetcode.java/tree/master/0326-power-of-three) |
 | [1323-maximum-69-number](https://github.com/Nivetha003/leetcode.java/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nivetha003/leetcode.java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nivetha003/leetcode.java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -39,4 +40,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nivetha003/leetcode.java/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Nivetha003/leetcode.java/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
