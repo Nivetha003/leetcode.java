@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nivetha003/leetcode.java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nivetha003/leetcode.java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/Nivetha003/leetcode.java/tree/master/2413-smallest-even-multiple) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Nivetha003/leetcode.java/tree/master/2525-categorize-box-according-to-criteria) |
 | [2652-sum-multiples](https://github.com/Nivetha003/leetcode.java/tree/master/2652-sum-multiples) |
 ## Greedy
 |  |
