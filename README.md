@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nivetha003/leetcode.java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nivetha003/leetcode.java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/Nivetha003/leetcode.java/tree/master/2413-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Nivetha003/leetcode.java/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Nivetha003/leetcode.java/tree/master/2525-categorize-box-according-to-criteria) |
 | [2652-sum-multiples](https://github.com/Nivetha003/leetcode.java/tree/master/2652-sum-multiples) |
 ## Greedy
