@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Nivetha003/leetcode.java/tree/master/0242-valid-anagram) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nivetha003/leetcode.java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Array
 |  |
@@ -87,8 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nivetha003/leetcode.java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Nivetha003/leetcode.java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nivetha003/leetcode.java/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Nivetha003/leetcode.java/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nivetha003/leetcode.java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nivetha003/leetcode.java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
