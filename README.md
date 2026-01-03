@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nivetha003/leetcode.java/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Nivetha003/leetcode.java/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Nivetha003/leetcode.java/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Nivetha003/leetcode.java/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Nivetha003/leetcode.java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nivetha003/leetcode.java/tree/master/0342-power-of-four) |
 | [1025-divisor-game](https://github.com/Nivetha003/leetcode.java/tree/master/1025-divisor-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nivetha003/leetcode.java/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Nivetha003/leetcode.java/tree/master/2413-smallest-even-multiple) |
 ## Sorting
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Nivetha003/leetcode.java/tree/master/0112-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nivetha003/leetcode.java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
