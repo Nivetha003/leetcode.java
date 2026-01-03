@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nivetha003/leetcode.java/tree/master/0112-path-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/Nivetha003/leetcode.java/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nivetha003/leetcode.java/tree/master/0112-path-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/Nivetha003/leetcode.java/tree/master/2236-root-equals-sum-of-children) |
 ## Dynamic Programming
@@ -112,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nivetha003/leetcode.java/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nivetha003/leetcode.java/tree/master/0112-path-sum) |
 ## Simulation
 |  |
