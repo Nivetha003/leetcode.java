@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Nivetha003/leetcode.java/tree/master/0704-binary-search) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nivetha003/leetcode.java/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Nivetha003/leetcode.java/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Nivetha003/leetcode.java/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
