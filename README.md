@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nivetha003/leetcode.java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nivetha003/leetcode.java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/Nivetha003/leetcode.java/tree/master/0704-binary-search) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nivetha003/leetcode.java/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -141,5 +142,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nivetha003/leetcode.java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/Nivetha003/leetcode.java/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nivetha003/leetcode.java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
