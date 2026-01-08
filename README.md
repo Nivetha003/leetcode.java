@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Nivetha003/leetcode.java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Nivetha003/leetcode.java/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Nivetha003/leetcode.java/tree/master/0704-binary-search) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Nivetha003/leetcode.java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nivetha003/leetcode.java/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Nivetha003/leetcode.java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Nivetha003/leetcode.java/tree/master/1025-divisor-game) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Nivetha003/leetcode.java/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Brainteaser
 |  |
 | ------- |
