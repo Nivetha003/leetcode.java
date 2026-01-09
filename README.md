@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nivetha003/leetcode.java/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nivetha003/leetcode.java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/Nivetha003/leetcode.java/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nivetha003/leetcode.java/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nivetha003/leetcode.java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/Nivetha003/leetcode.java/tree/master/2236-root-equals-sum-of-children) |
 ## Dynamic Programming
 |  |
@@ -130,18 +132,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nivetha003/leetcode.java/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Nivetha003/leetcode.java/tree/master/0242-valid-anagram) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nivetha003/leetcode.java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nivetha003/leetcode.java/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nivetha003/leetcode.java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nivetha003/leetcode.java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nivetha003/leetcode.java/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nivetha003/leetcode.java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Simulation
 |  |
 | ------- |
