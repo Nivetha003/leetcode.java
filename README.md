@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Nivetha003/leetcode.java/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Nivetha003/leetcode.java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nivetha003/leetcode.java/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Nivetha003/leetcode.java/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Nivetha003/leetcode.java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Nivetha003/leetcode.java/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nivetha003/leetcode.java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/Nivetha003/leetcode.java/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Nivetha003/leetcode.java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Nivetha003/leetcode.java/tree/master/1025-divisor-game) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Nivetha003/leetcode.java/tree/master/1458-max-dot-product-of-two-subsequences) |
