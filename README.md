@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Nivetha003/leetcode.java/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Nivetha003/leetcode.java/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/Nivetha003/leetcode.java/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha003/leetcode.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Nivetha003/leetcode.java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Nivetha003/leetcode.java/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nivetha003/leetcode.java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nivetha003/leetcode.java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Nivetha003/leetcode.java/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Nivetha003/leetcode.java/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha003/leetcode.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Nivetha003/leetcode.java/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nivetha003/leetcode.java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nivetha003/leetcode.java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nivetha003/leetcode.java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nivetha003/leetcode.java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha003/leetcode.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0680-valid-palindrome-ii](https://github.com/Nivetha003/leetcode.java/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
