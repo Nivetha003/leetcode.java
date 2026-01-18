@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nivetha003/leetcode.java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nivetha003/leetcode.java/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nivetha003/leetcode.java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nivetha003/leetcode.java/tree/master/0058-length-of-last-word) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nivetha003/leetcode.java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nivetha003/leetcode.java/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Nivetha003/leetcode.java/tree/master/0242-valid-anagram) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nivetha003/leetcode.java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nivetha003/leetcode.java/tree/master/0357-count-numbers-with-unique-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nivetha003/leetcode.java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
