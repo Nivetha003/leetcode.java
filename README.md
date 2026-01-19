@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nivetha003/leetcode.java/tree/master/0242-valid-anagram) |
+| [0833-find-and-replace-in-string](https://github.com/Nivetha003/leetcode.java/tree/master/0833-find-and-replace-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nivetha003/leetcode.java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Array
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nivetha003/leetcode.java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Nivetha003/leetcode.java/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/Nivetha003/leetcode.java/tree/master/0704-binary-search) |
+| [0833-find-and-replace-in-string](https://github.com/Nivetha003/leetcode.java/tree/master/0833-find-and-replace-in-string) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Nivetha003/leetcode.java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nivetha003/leetcode.java/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Nivetha003/leetcode.java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha003/leetcode.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0680-valid-palindrome-ii](https://github.com/Nivetha003/leetcode.java/tree/master/0680-valid-palindrome-ii) |
+| [0833-find-and-replace-in-string](https://github.com/Nivetha003/leetcode.java/tree/master/0833-find-and-replace-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nivetha003/leetcode.java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nivetha003/leetcode.java/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Nivetha003/leetcode.java/tree/master/0242-valid-anagram) |
+| [0833-find-and-replace-in-string](https://github.com/Nivetha003/leetcode.java/tree/master/0833-find-and-replace-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nivetha003/leetcode.java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
