@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Nivetha003/leetcode.java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nivetha003/leetcode.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0680-valid-palindrome-ii](https://github.com/Nivetha003/leetcode.java/tree/master/0680-valid-palindrome-ii) |
+| [0709-to-lower-case](https://github.com/Nivetha003/leetcode.java/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/Nivetha003/leetcode.java/tree/master/0819-most-common-word) |
 | [0833-find-and-replace-in-string](https://github.com/Nivetha003/leetcode.java/tree/master/0833-find-and-replace-in-string) |
 ## String Matching
