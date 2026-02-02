@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nivetha003/leetcode.java/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Nivetha003/leetcode.java/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Nivetha003/leetcode.java/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nivetha003/leetcode.java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nivetha003/leetcode.java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Nivetha003/leetcode.java/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Nivetha003/leetcode.java/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
